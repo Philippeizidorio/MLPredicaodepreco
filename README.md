@@ -1,1 +1,1 @@
-# Prevendo Preços De Apartamentos Com Machine Learning 🔮🏙️
+# Prevendo Preços De Apartamentos Com Machine Learning 🏙️

@@ -39,3 +39,29 @@ Após ter importado a base, realizamos certos tratamentos, trabalhamos no entend
 `Area_Population`: População do local.
 
 `Price`: Preço do imóvel. **Variável target*
+
+### ◾Correlação entre as variáveis com 'Price'(Pairplot):
+
+<p align="center">
+  <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/3c22fdb9-3d25-4c24-9358-6df2a9ca73e9" alt="Média de renda por canal de venda">
+</p>
+
+<p align="center">
+   As colunas possuem uma maior correlação com 'Price' são as de número 1,2,3 e 5.
+</p>
+
+### ◾Correlação entre as variáveis com 'Price'(Heatmap):
+
+<p align="center">
+  <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/ea4c0322-83b3-442f-bbda-9d10d2a9a5e9" alt="Média de renda por canal de venda">
+</p>
+
+### ◾Treinando e Testando o modelo de ML:
+Nessa etapa final, separamos as variáveis ___'x'___ e ___'y'___, definimos as bases ___train___ e ___test___. Por fim, importamos a Regressão Linear do Sklearn para treinar os dados, predizer e tirarmos o R² Score.
+<p align="center">
+  <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/79d2d6fb-94fe-4842-a048-79542bbb924c" alt="Média de renda por canal de venda">
+</p>
+
+<p align="center">
+ Obtivemos um R²_Score de 91%(Alta linearidade)
+</p>

@@ -57,7 +57,7 @@ Após ter importado a base, realizamos certos tratamentos, trabalhamos no entend
 </p>
 
 ### ◾Treinando e Testando o modelo de ML:
-Nessa etapa final, separamos as variáveis ___'x'___ e ___'y'___, definimos as bases ___train___ e ___test___. Por fim, importamos a Regressão Linear do Sklearn para treinar os dados, predizer e tirarmos o R² Score.
+Nessa etapa final, separamos as variáveis ___'x'___ e ___'y'___, definimos as bases ___train___ e ___test___. Por fim, importamos a Regressão Linear do Sklearn para treinamento dos dados, predição e mensuração do R² Score.
 <p align="center">
   <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/79d2d6fb-94fe-4842-a048-79542bbb924c" alt="Média de renda por canal de venda">
 </p>

@@ -24,4 +24,4 @@ import plotly.express as px
 ```
 
 ### ◾Análise Exploratória De Dados(AED):
-Após ter importado a base, realizamos certos tratamentos, trabalhamos no entendimento dos dados, identificação de tendências e extração de insights, a fim de realizarmos uma análise exploratória dos dados.
+Após ter importado a base, realizamos certos tratamentos, trabalhamos no entendimento dos dados e identificação de tendências, a fim de realizarmos uma análise exploratória desses dados usando bibliotecas como **Pandas** e **Plotly**.

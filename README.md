@@ -1,5 +1,5 @@
 # Prevendo Preços De Apartamentos Com Machine Learning 🏙️
-![Alt ou título da imagem](https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/2d8949e8-7adc-4f12-adc3-a29458d9f596)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/46c32dee-10f5-43ad-b6e4-598495f87fba)
 
 ### ◾Contexto:
 O projeto consistiu em tratar uma base de dados de uma imobiliária dos Estados Unidos, construir análises gráficas para entendimento dessa base, desenvolver e avaliar um modelo de regressão linear capaz de prever o preço de imóveis do tipo apartamento.

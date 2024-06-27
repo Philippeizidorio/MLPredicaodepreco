@@ -25,3 +25,17 @@ import plotly.express as px
 
 ### ◾Análise Exploratória De Dados(AED):
 Após ter importado a base, realizamos certos tratamentos, trabalhamos no entendimento dos dados e identificação de tendências, a fim de realizarmos uma análise exploratória desses dados usando bibliotecas como **Pandas** e **Plotly**.
+
+### ◾Dicionário Dos Dados:
+
+`Avg_Area_Income`: Média da área construída. 
+
+`Avg_Area_House_Age`: Média de idade do imóvel. 
+
+`Avg_Area_Number_of_Rooms`: Média da quantidade de salas.
+
+`Avg_Area_Number_of_Bedrooms`: Média da quantidade de quartos.
+
+`Area_Population`: População do local.
+
+`Price`: Preço do imóvel. **Variável target*

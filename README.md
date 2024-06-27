@@ -75,9 +75,9 @@ Para usar este código, siga estas etapas:
 
 1. Instale as bibliotecas(dependências) necessárias listadas logo no início;
 
-2. Copie e cole o código em um ambiente Python, como Jupyter Notebook ou um script Python.
+2. Copie e cole o código em um ambiente Python, como Jupyter Notebook ou um script Python;
 
-3. Execute o código para carregar o conjunto de dados, tratamentos, treinar os modelos e gerar métricas de desempenho e visualizações.
+3. Execute o código para carregar o conjunto de dados, tratamentos, treinar os modelos e gerar métricas de desempenho e visualizações;
 
 4. Insira os parâmetros desejados para realizar a previsão de preços dos imóveis.
 

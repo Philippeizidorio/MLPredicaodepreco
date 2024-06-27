@@ -40,7 +40,7 @@ Após ter importado a base, realizamos certos tratamentos, trabalhamos no entend
 
 `Price`: Preço do imóvel. **Variável target*
 
-### ◾Correlação entre as variáveis com 'Price'(Pairplot):
+### ◾Correlação das variáveis com 'Price'(Pairplot):
 
 <p align="center">
   <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/3c22fdb9-3d25-4c24-9358-6df2a9ca73e9" alt="Média de renda por canal de venda">
@@ -50,7 +50,7 @@ Após ter importado a base, realizamos certos tratamentos, trabalhamos no entend
    As colunas possuem uma maior correlação com 'Price' são as de número 1,2,3 e 5.
 </p>
 
-### ◾Correlação entre as variáveis com 'Price'(Heatmap):
+### ◾Correlação das variáveis com 'Price'(Heatmap):
 
 <p align="center">
   <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/ea4c0322-83b3-442f-bbda-9d10d2a9a5e9" alt="Média de renda por canal de venda">
@@ -65,3 +65,25 @@ Nessa etapa final, separamos as variáveis ___'x'___ e ___'y'___, definimos as b
 <p align="center">
  Obtivemos um R²_Score de 91%(Alta linearidade)
 </p>
+
+### ◾ Tecnologias Utilizadas: 
+<div <br> 
+<img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-%232A9D8F.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
+</div> 
+
+## Autor:
+
+<img  src="https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL/assets/145637595/9800ac43-2070-48d4-9002-dbf82f756f2c" width="80" alt="cognitiveclass.ai logo" align="left" /> 
+
+### &nbsp;&nbsp;Philippe Izidório
+
+<p>
+&nbsp;&nbsp;Estudante De Ciência De Dados / Business Intelligence / Analista De Dados<br/>
+&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/philippeizidorio/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: euphilippeizidorio@gmail.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Philippeizidorio
+</p>
+

@@ -1,4 +1,4 @@
-# Prevendo Preços De Apartamentos Com Machine Learning 🏙️
+# Prevendo Preços De Apartamentos Com Machine Learning 🏙️🔮
 ![Alt ou título da imagem](https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/46c32dee-10f5-43ad-b6e4-598495f87fba)
 
 ### ◾Contexto:

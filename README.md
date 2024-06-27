@@ -70,6 +70,17 @@ Nessa etapa final, separamos as variáveis ___'x'___ e ___'y'___, definimos as b
  Obtivemos um R²_Score de 91%(Alta linearidade)
 </p>
 
+### ◾Utilização:
+Para usar este código, siga estas etapas:
+
+1.Instale as bibliotecas(dependências) necessárias listadas logo no início;
+
+2.Copie e cole o código em um ambiente Python, como Jupyter Notebook ou um script Python.
+
+3.Execute o código para carregar o conjunto de dados, tratamentos, treinar os modelos e gerar métricas de desempenho e visualizações.
+
+4.Insira os parâmetros desejados para realizar a previsão de preços dos imóveis.
+
 ### ◾ Tecnologias Utilizadas: 
 <div <br> 
 <img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">

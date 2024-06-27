@@ -24,4 +24,4 @@ import plotly.express as px
 ```
 
 ### ◾Análise Exploratória De Dados(AED):
-A fim de realizarmos certos tratamentos, remoção de erros,trabalharmos no entendimento dos dados, identificação de tendências e extração de insights, realizamos uma análise exploratória dos dados.
+Após ter importado a base, realizarmos certos tratamentos, trabalharmos no entendimento dos dados, identificação de tendências e extração de insights, a fim de realizamos uma análise exploratória dos dados.

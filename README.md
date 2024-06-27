@@ -42,6 +42,7 @@ Após ter importado a base, realizamos certos tratamentos, trabalhamos no entend
 
 ### ◾Correlação das variáveis com 'Price'(Pairplot):
 
+
 <p align="center">
   <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/3c22fdb9-3d25-4c24-9358-6df2a9ca73e9" alt="Média de renda por canal de venda">
 </p>
@@ -50,11 +51,14 @@ Após ter importado a base, realizamos certos tratamentos, trabalhamos no entend
    As colunas possuem uma maior correlação com 'Price' são as de número 1,2,3 e 5.
 </p>
 
+
 ### ◾Correlação das variáveis com 'Price'(Heatmap):
+
 
 <p align="center">
   <img src="https://github.com/Philippeizidorio/MLPredicaodepreco/assets/145637595/ea4c0322-83b3-442f-bbda-9d10d2a9a5e9" alt="Média de renda por canal de venda">
 </p>
+
 
 ### ◾Treinando e Testando o modelo de ML:
 Nessa etapa final, separamos as variáveis ___'x'___ e ___'y'___, definimos as bases ___train___ e ___test___. Por fim, importamos a Regressão Linear do Sklearn para treinamento dos dados, predição e mensuração do R² Score.

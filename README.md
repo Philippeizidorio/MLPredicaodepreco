@@ -48,7 +48,7 @@ Após ter importado a base, realizamos certos tratamentos, trabalhamos no entend
 </p>
 
 <p align="center">
-   As colunas possuem uma maior correlação com 'Price' são as de número 1,2,3 e 5.
+   As variáveis que possuem uma maior linearidade com 'Price' são as da posição 1,2,3 e 5.
 </p>
 
 
